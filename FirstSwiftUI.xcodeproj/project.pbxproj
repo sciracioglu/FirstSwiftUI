@@ -13,6 +13,7 @@
 		52A146CB254BA6F100FDB3BC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52A146CA254BA6F100FDB3BC /* Preview Assets.xcassets */; };
 		52A146D6254BA6F100FDB3BC /* FirstSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A146D5254BA6F100FDB3BC /* FirstSwiftUITests.swift */; };
 		52A146E1254BA6F100FDB3BC /* FirstSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A146E0254BA6F100FDB3BC /* FirstSwiftUIUITests.swift */; };
+		52A146F2254BB20700FDB3BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52A146F1254BB20700FDB3BC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		52A146DC254BA6F100FDB3BC /* FirstSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52A146E0254BA6F100FDB3BC /* FirstSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSwiftUIUITests.swift; sourceTree = "<group>"; };
 		52A146E2254BA6F100FDB3BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52A146F1254BB20700FDB3BC /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				52A146C7254BA6F100FDB3BC /* Assets.xcassets */,
 				52A146CC254BA6F100FDB3BC /* Info.plist */,
 				52A146C9254BA6F100FDB3BC /* Preview Content */,
+				52A146F1254BB20700FDB3BC /* LaunchScreen.storyboard */,
 			);
 			path = FirstSwiftUI;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52A146F2254BB20700FDB3BC /* LaunchScreen.storyboard in Resources */,
 				52A146CB254BA6F100FDB3BC /* Preview Assets.xcassets in Resources */,
 				52A146C8254BA6F100FDB3BC /* Assets.xcassets in Resources */,
 			);
